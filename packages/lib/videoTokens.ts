@@ -1,3 +1,4 @@
+// vybscan: incremental-scan cost measurement (no functional change)
 import { createHmac } from "node:crypto";
 
 // 262992 minutes is 6 months
